@@ -1785,29 +1785,6 @@ body {
   display: block;
   text-align: center;
 }
-.cid-qvLTuyBZsI {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-qvLTuyBZsI [class^="socicon-"]:before,
-.cid-qvLTuyBZsI [class*=" socicon-"]:before {
-  line-height: 44px;
-}
-.cid-qvLTuyBZsI .btn-social {
-  border-color: #149dcc;
-}
-.cid-qvLTuyBZsI .btn-social:hover {
-  background: #149dcc;
-}
-.cid-qvLTuyBZsI .btn-social:hover i.socicon {
-  color: #ffffff !important;
-}
-@media (max-width: 767px) {
-  .cid-qvLTuyBZsI .btn {
-    font-size: 20px !important;
-  }
-}
 .cid-qvCL0dWShL {
   padding-top: 60px;
   padding-bottom: 60px;
