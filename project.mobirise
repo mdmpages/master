@@ -551,7 +551,8 @@
               "margin-bottom": "2rem"
             },
             ".mbr-section-subtitle": {
-              "color": "#767676"
+              "color": "#767676",
+              "text-align": "right"
             },
             "a:not([href]):not([tabindex])": {
               "color": "#fff",
